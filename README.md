@@ -1,18 +1,13 @@
-## Hi there 👋
+Hey there , I'm Zayd a passionate Backend Developer 
 
-Je m'appelle Zayd, je suis passionné par les technologies modernes et leur application pour résoudre des problèmes complexes. Mon intérêt principal se concentre sur plusieurs domaines clés :
+I am a backend developer specialized in building robust and high-performance architectures. My expertise spans designing scalable APIs, database management, and system performance optimization.
 
-Cloud Computing : J'apprécie explorer les architectures cloud et les services qui permettent de développer, déployer et scaler des applications de manière efficace et sécurisée.
+I am proficient in Java/Spring and NodeJs/Typescript ecosystems for developing complex business applications. My experience includes implementing microservices solutions, scaling infrastructures, and integrating distributed systems.
 
-Software Engineering : En tant qu'ingénieur logiciel, j'aime concevoir des solutions robustes et élégantes, en utilisant les meilleures pratiques de développement pour garantir la qualité et la maintenabilité du code.
+Passionate about technical challenges and development best practices, I continuously strive to improve code quality and project maintainability. I place strong emphasis on automated testing, technical documentation, and SOLID principles.
 
-Network Engineering : La mise en place et l'optimisation des infrastructures réseau sont essentielles pour assurer des communications fluides et sécurisées. Je m'intéresse particulièrement aux technologies qui facilitent la connectivité et la résilience des réseaux.
+Open to collaboration opportunities on innovative projects, feel free to reach out to discuss technical topics or potential partnerships.
 
-Full-Stack Development : Du frontend au backend, j'aime travailler sur tous les aspects d'une application pour offrir une expérience utilisateur riche et performante. Cela inclut l'interaction avec les bases de données, la gestion des API et la création d'interfaces utilisateur intuitives.
-
-À travers mon travail et mes projets, je cherche continuellement à approfondir mes compétences et à explorer de nouvelles opportunités dans ces domaines passionnants et en constante évolution.
-
-<!--
 **moustoif/moustoif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
